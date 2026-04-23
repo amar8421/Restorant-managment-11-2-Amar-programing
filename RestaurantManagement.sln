@@ -1,0 +1,37 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantManagement.UI", "src\RestaurantManagement.UI\RestaurantManagement.UI.csproj", "{9A1B2C3D-4E5F-6G7H-8I9J-0K1L2M3N4O5P}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantManagement.Core", "src\RestaurantManagement.Core\RestaurantManagement.Core.csproj", "{5P4O3N2M1L0K9J8I7H6G5F4E3D2C1B0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantManagement.Data", "src\RestaurantManagement.Data\RestaurantManagement.Data.csproj", "{3C2B1A0F-1E2D-3C4B-5A6F-7G8H9I0J1K2L}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantManagement.Utilities", "src\RestaurantManagement.Utilities\RestaurantManagement.Utilities.csproj", "{7H8I9J0K1L2M3N4O5P6Q7R8S9T0U1V2W}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A1B2C3D-4E5F-6G7H-8I9J-0K1L2M3N4O5P}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1B2C3D-4E5F-6G7H-8I9J-0K1L2M3N4O5P}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1B2C3D-4E5F-6G7H-8I9J-0K1L2M3N4O5P}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1B2C3D-4E5F-6G7H-8I9J-0K1L2M3N4O5P}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5P4O3N2M1L0K9J8I7H6G5F4E3D2C1B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5P4O3N2M1L0K9J8I7H6G5F4E3D2C1B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5P4O3N2M1L0K9J8I7H6G5F4E3D2C1B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5P4O3N2M1L0K9J8I7H6G5F4E3D2C1B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2B1A0F-1E2D-3C4B-5A6F-7G8H9I0J1K2L}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2B1A0F-1E2D-3C4B-5A6F-7G8H9I0J1K2L}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2B1A0F-1E2D-3C4B-5A6F-7G8H9I0J1K2L}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2B1A0F-1E2D-3C4B-5A6F-7G8H9I0J1K2L}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7H8I9J0K1L2M3N4O5P6Q7R8S9T0U1V2W}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7H8I9J0K1L2M3N4O5P6Q7R8S9T0U1V2W}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7H8I9J0K1L2M3N4O5P6Q7R8S9T0U1V2W}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7H8I9J0K1L2M3N4O5P6Q7R8S9T0U1V2W}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
